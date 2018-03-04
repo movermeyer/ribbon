@@ -13,14 +13,14 @@ ribbon
    :target: http://badge.fury.io/py/ribbon
    :alt: PyPI version
 
-.. image:: https://pypip.in/d/ribbon/badge.png
+.. image:: https://img.shields.io/pypi/dm/ribbon.svg
    :target: https://crate.io/packages/ribbon/
    :alt: PyPi downloads
 
 .. image:: https://img.shields.io/badge/pep8-passing-brightgreen.svg
    :alt: pep8
 
-.. image:: https://pypip.in/py_versions/ribbon/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/ribbon.svg
    :target: https://pypi.python.org/pypi/ribbon/
    :alt: Supported Python versions
 
